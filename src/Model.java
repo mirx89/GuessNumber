@@ -16,7 +16,7 @@ public class Model {
     /**
      * Maximum random number
      */
-    private final int MAXIMUM = 10;
+    private final int MAXIMUM = 100;
     /**
      * Scoreboard filename
      */
